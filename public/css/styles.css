@@ -1243,7 +1243,7 @@ input {
     justify-content: center;
 }
 
-.textarea {
+textarea {
     border: 1px solid lightgray;
     margin-top: 15px;
     max-width: 100%;
@@ -1371,6 +1371,7 @@ input {
 
 .input-avatar {
     padding: 16px;
+    width: 90%;
 }
 
 /* Carrito */
